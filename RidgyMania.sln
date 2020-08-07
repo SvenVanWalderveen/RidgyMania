@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RidgyManiaDll", "RidgyManiaDll\RidgyManiaDll.csproj", "{793AEFFA-F532-4859-BBD3-B65CA2730D34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfUI", "WpfUI\WpfUI.csproj", "{9C24BBDC-ECCB-494A-A207-7CB18FA99E80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{2BCD2F46-2BDF-4C8F-A19B-B30411ACEB55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{793AEFFA-F532-4859-BBD3-B65CA2730D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{793AEFFA-F532-4859-BBD3-B65CA2730D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{793AEFFA-F532-4859-BBD3-B65CA2730D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{793AEFFA-F532-4859-BBD3-B65CA2730D34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C24BBDC-ECCB-494A-A207-7CB18FA99E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C24BBDC-ECCB-494A-A207-7CB18FA99E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C24BBDC-ECCB-494A-A207-7CB18FA99E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C24BBDC-ECCB-494A-A207-7CB18FA99E80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BCD2F46-2BDF-4C8F-A19B-B30411ACEB55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BCD2F46-2BDF-4C8F-A19B-B30411ACEB55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BCD2F46-2BDF-4C8F-A19B-B30411ACEB55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BCD2F46-2BDF-4C8F-A19B-B30411ACEB55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52D5C949-C239-4113-A40D-7012B93B40EB}
+	EndGlobalSection
+EndGlobal
